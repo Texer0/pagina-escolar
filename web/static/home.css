@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(135deg, #112b3c, #000000);
+    min-height: 100vh;
+}
+
+h1, h3{
+    margin: 2vh;
+}
